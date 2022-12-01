@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "remera",
+    "precio": "2388",
+    "thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/323/009/products/negro-35d9e5ef0af75095f216560860367793-1024-1024.jpg",
+    "id": 1
+  },
+  {
+    "titulo": "remera",
+    "precio": "2500",
+    "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwarehouse.com.ar%2Fproducto%2Fremera-jersey-cardado-azul-marino%2F&psig=AOvVaw3tdA8ePoQobKorBSPzq2O8&ust=1668218177903000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPimzJCDpfsCFQAAAAAdAAAAABAI",
+    "id": 2
+  }
+]
